@@ -39,10 +39,10 @@ function _0xffa3(e, t) {
 function _0x269e() {
   const e = [
     '20268568nrnmeu',
-    'Claim button clicked. Subscribe: https://t.me/HappyCuanAirdrop',
+    'Claim button clicked',
     '968373IlgNQB',
     'click',
-    'Galxe Auto Complete tasks – Happy Cuan Airdrop\n\nSubscribe: https://t.me/HappyCuanAirdrop',
+    'Galxe Auto Complete tasks – \n\n test ',
     '8IOxSUW',
     'log',
     '1350494yItHPR',
